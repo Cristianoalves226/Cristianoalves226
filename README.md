@@ -1,55 +1,53 @@
-### Oie devs 👋
+### Hello world 👋
 
-Trago comigo sonhos, e no peito, uma fé imensa para realizá-los.
+<div>
+  <a href="c.alvesdecampos@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/cristiano-alves-de-campos-7916b9ba/" target="blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/Cris22Xcris21" target="blank">
+    <img src="https://img.shields.io/twitter/follow/Cris22Xcris21?logo=twitter&style=for-the-badge" alt="nathally_22" />
+  </a>
+</div>
+
+##
+
+My name name is Cristiano Alves.
+
+- 🌱 Developer.
+- 🔧 Building a **[helpdesk Project](https://github.com/Cristianoalves226/helpdesk-backend)** to learning another techs
+
+### Main techs
+<div style="display: inline_block"><br>
+ <img align="center" alt="nat-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+  <img align="center" alt="nat-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="nat-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  <img align="center" alt="nat-pg" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="nat-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
+</div>
+
+##
+
+#### Other techs
+<div style="display: inline_block"><br>
+  <img align="center" alt="nat-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="nat-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="nat-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="nat-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="nat-mySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
+##
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cristianoalves226&show_icons=true&theme=radical">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristianoalves226&layout=compact&theme=radical">
+</div>
+
+<!--
+**nathyts/nathyts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object **SEU NOME** {
- val name = "Cristiano Alves de Campos"
- val acknowledgements = "ÁREA DE CONHECIMENTO"
- 
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "PHP", "JavaScript", "Kotlin", "Typescrip") 
-
-}
-```
-
-## **Linguagens e Ferramentas:**  
-
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-
-
-## **GitHub Estatísticas**
-
-<a href="https://github.com/Cristianoalves226">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristianoalves226&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Cristianoalves226">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Cristianoalves226&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-
-[twitter]: https://twitter.com/Cris22Xcris21
-
-[instagram]: https://www.instagram.com/cristiano.a.campos/
-[linkedin]: https://www.linkedin.com/in/cristiano-alves-de-campos-7916b9ba/
-<br>
-
-#### Rede Sociais!
-
-
-🐦 [twitter][twitter] **|** 
-📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+-->
